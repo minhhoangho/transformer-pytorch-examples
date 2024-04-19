@@ -395,6 +395,9 @@ I follow original paper's parameter settings. (below) <br>
 
 
 ## 3. Reference
+
+This repository is based on [This repo](https://github.com/hyunwoongko/transformer) with some modifications. Shout out to [HyunWoongKo](https://github.com/hyunwoongko) for his great work!
+
 - [Attention is All You Need, 2017 - Google](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer - Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 - [Data & Optimization Code Reference - Bentrevett](https://github.com/bentrevett/pytorch-seq2seq/)
