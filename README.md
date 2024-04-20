@@ -55,7 +55,7 @@ class PositionalEncoding(nn.Module):
 ### 1.2 Multi-Head Attention
 
 
-![model](images/multi_head_attention.jpg)
+![model](image/multi_head_attention.jpg)
 
 ```python
 class MultiHeadAttention(nn.Module):
